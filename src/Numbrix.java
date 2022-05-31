@@ -1,12 +1,6 @@
 /**
  * Numbrix.java  6/11/2011
  *
- * @author - Jane Doe
- * @author - Period n
- * @author - Id nnnnnnn
- *
- * @author - I received help from ...
- *
  *
  * Solves Numbrix puzzles
  * http://www.parade.com/numbrix
