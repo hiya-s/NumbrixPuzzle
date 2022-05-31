@@ -1,9 +1,6 @@
 /**
  * NumbrixMain.java  05/08/11
  *
- * @author - Robert Glen Martin
- * @author - School for the Talented and Gifted
- * @author - Dallas ISD
  *
  * Solves Numbrix puzzles
  * http://www.parade.com/numbrix
